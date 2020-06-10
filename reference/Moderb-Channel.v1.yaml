@@ -1,0 +1,9 @@
+openapi: 3.0.0
+info:
+  title: Moderb Channel
+  version: '1.0'
+servers:
+  - url: 'https://apigw.xl.co.id'
+paths: {}
+components:
+  schemas: {}
